@@ -1,0 +1,11 @@
+.img-btn{
+    background-position: center;
+    background-size: cover;
+    background-image: url("pic/uhdpaper.com-3490e-pc-4k.jpg");
+    height: 800px;
+    width: 100%;
+}
+
+.img{
+    display: none;
+}
